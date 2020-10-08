@@ -1,4 +1,4 @@
-package com.buckwheat.community.provider.controller;
+package com.buckwheat.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
