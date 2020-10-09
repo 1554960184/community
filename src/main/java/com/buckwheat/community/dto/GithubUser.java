@@ -1,6 +1,8 @@
 package com.buckwheat.community.dto;
 
-public class GithubUser {
+import java.io.Serializable;
+
+public class GithubUser implements Serializable{
     private String name;
     private Long id;
     private String bio;
